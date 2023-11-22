@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development, and learning new Technologies
 - 🌱 I’m currently learning SEO, Web Frontend and Wordpress Development 
 - 💞️ I’m looking to collaborate on your SEO & Web Projects
-- 📫 How to reach me 
+- 📫 How to reach me:
     - <a href="facebook.com/hkborikhelvi"target="_blank">Facebook</a>
     - <a href="linkedin.com/in/borikhelvi"target="_blank">LinkedIn</a>
     - <a href="twitter.com/hkborikhelvi"target="_blank">Twitter X</a>
