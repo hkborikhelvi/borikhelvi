@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @borikhelvi
+- 👋 Hi, I’m Haqdad Khan
 - 👀 I’m interested in Development, and learning new Technologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SEO, Web Frontend and Wordpress Development 
+- 💞️ I’m looking to collaborate on your SEO & Web Projects
+- 📫 How to reach me 
+    - facebook.com/hkborikhelvi
+    - linkedin.com/in/borikhelvi
+    - twitter.com/hkborikhelvi
 
 <!---
 borikhelvi/borikhelvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
