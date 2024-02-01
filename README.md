@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haqdad Khan
 - 👀 I’m interested in Development, and learning new Technologies
-- 🌱 I’m currently learning SEO, Web Frontend and Wordpress Development 
-- 💞️ I’m looking to collaborate on your SEO & Web Projects
+- 🌱 I’m currently learning SEO, Web Frontend, Wordpress & React Native CLI Development 
+- 💞️ I’m looking to collaborate on your SEO, Web & React Native Android Projects
 - 📫 How to reach me 
     - facebook.com/hkborikhelvi
     - linkedin.com/in/borikhelvi
